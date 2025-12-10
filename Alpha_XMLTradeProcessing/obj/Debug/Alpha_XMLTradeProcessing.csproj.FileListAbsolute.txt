@@ -1,0 +1,14 @@
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Alpha_XMLTradeProcessing.exe.config
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Alpha_XMLTradeProcessing.exe
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Alpha_XMLTradeProcessing.pdb
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Unity.Abstractions.dll
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Unity.Abstractions.pdb
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Unity.Container.dll
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\bin\Debug\Unity.Container.pdb
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\obj\Debug\Alpha_XMLTradeProcessing.csproj.AssemblyReference.cache
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\obj\Debug\Alpha_XMLTradeProcessing.csproj.CoreCompileInputs.cache
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\obj\Debug\Alpha_XM.0ACDCB06.Up2Date
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\obj\Debug\Alpha_XMLTradeProcessing.exe
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\obj\Debug\Alpha_XMLTradeProcessing.pdb
+D:\Amit Personal Work\AlphaCentrix CodeTest\AlphaCentrix_Engineer Code Test\AlphaCentrix_Engineer Code Test\Backend\Projects\Alpha_XMLTradeProcessing\obj\Debug\Alpha_XMLTradeProcessing.exe.config

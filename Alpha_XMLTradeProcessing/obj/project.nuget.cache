@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+/e/FSgLWBA=",
+  "success": true,
+  "projectFilePath": "D:\\Amit Personal Work\\AlphaCentrix CodeTest\\AlphaCentrix_Engineer Code Test\\AlphaCentrix_Engineer Code Test\\Backend\\Projects\\Alpha_XMLTradeProcessing\\Alpha_XMLTradeProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amit Chakor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Amit Chakor\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
